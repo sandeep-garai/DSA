@@ -16,4 +16,12 @@ For my DSA problem and solutions
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/sandeep-garai/DSA/tree/master/0409-longest-palindrome) |
+## Binary Search
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/sandeep-garai/DSA/tree/master/0278-first-bad-version) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/sandeep-garai/DSA/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
