@@ -12,6 +12,7 @@ For my DSA problem and solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sandeep-garai/DSA/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/sandeep-garai/DSA/tree/master/0169-majority-element) |
 | [0409-longest-palindrome](https://github.com/sandeep-garai/DSA/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/sandeep-garai/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Greedy
@@ -32,6 +33,7 @@ For my DSA problem and solutions
 | [0001-two-sum](https://github.com/sandeep-garai/DSA/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/sandeep-garai/DSA/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/sandeep-garai/DSA/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/sandeep-garai/DSA/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/sandeep-garai/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Bit Manipulation
 |  |
@@ -49,4 +51,13 @@ For my DSA problem and solutions
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sandeep-garai/DSA/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/sandeep-garai/DSA/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sandeep-garai/DSA/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sandeep-garai/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
