@@ -1,24 +1,19 @@
 class Solution {
 public:
     void sortColors(vector<int>& nums) {
-        map<int,int> mp;
-        for(int n:nums){
-            mp[n]++;
-        }
-        int k=0,i=0;
-        while(i<mp[0]){
-            nums[k++]=0;
-            i++;
-        }
-        i=0;
-        while(i<mp[1]){
-            nums[k++]=1;
-            i++;
-        }
-        i=0;
-        while(i<mp[2]){
-            nums[k++]=2;
-            i++;
+        int low=0,mid=0,high=nums.size()-1;
+        while(mid<=high){
+            if(nums[mid]==0){
+                std::swap(nums[low],nums[mid]);
+                ++low;
+                ++mid;
+            }
+            else if(nums[mid]==1)
+                ++mid;
+            else if(nums[mid]==2){
+                std::swap(nums[mid],nums[high]);
+                --high;
+            }
         }
     }
 };
