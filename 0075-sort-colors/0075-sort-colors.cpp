@@ -1,18 +1,14 @@
 class Solution {
 public:
     void sortColors(vector<int>& nums) {
-        int low=0,mid=0,high=nums.size()-1;
-        while(mid<=high){
-            if(nums[mid]==0){
-                std::swap(nums[low],nums[mid]);
-                ++low;
-                ++mid;
-            }
-            else if(nums[mid]==1)
-                ++mid;
-            else if(nums[mid]==2){
-                std::swap(nums[mid],nums[high]);
-                --high;
+        int array[3] = {0};
+        for(int i =0;i<nums.size();i++){
+            array[nums[i]]++;
+        }
+        nums.clear();
+        for(int i =0;i<3;i++){
+            for(int j =0;j<array[i];j++){
+                nums.push_back(i);
             }
         }
     }
