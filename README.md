@@ -11,6 +11,7 @@ For my DSA problem and solutions
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sandeep-garai/DSA/tree/master/0001-two-sum) |
 | [0409-longest-palindrome](https://github.com/sandeep-garai/DSA/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/sandeep-garai/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Greedy
@@ -28,6 +29,7 @@ For my DSA problem and solutions
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sandeep-garai/DSA/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/sandeep-garai/DSA/tree/master/0136-single-number) |
 | [0560-subarray-sum-equals-k](https://github.com/sandeep-garai/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Bit Manipulation
