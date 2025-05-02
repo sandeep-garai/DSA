@@ -41,6 +41,7 @@ For my DSA problem and solutions
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sandeep-garai/DSA/tree/master/0136-single-number) |
+| [0476-number-complement](https://github.com/sandeep-garai/DSA/tree/master/0476-number-complement) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/sandeep-garai/DSA/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Prefix Sum
 |  |
