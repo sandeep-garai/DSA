@@ -18,6 +18,7 @@ For my DSA problem and solutions
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sandeep-garai/DSA/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/sandeep-garai/DSA/tree/master/0409-longest-palindrome) |
 ## Binary Search
 |  |
@@ -31,6 +32,7 @@ For my DSA problem and solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sandeep-garai/DSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/sandeep-garai/DSA/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/sandeep-garai/DSA/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/sandeep-garai/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/sandeep-garai/DSA/tree/master/0169-majority-element) |
@@ -46,6 +48,7 @@ For my DSA problem and solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sandeep-garai/DSA/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/sandeep-garai/DSA/tree/master/0075-sort-colors) |
 ## Sorting
 |  |
