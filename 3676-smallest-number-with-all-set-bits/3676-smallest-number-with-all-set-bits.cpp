@@ -1,16 +1,12 @@
 class Solution {
 public:
     int smallestNumber(int n) {
-        vector<int> bin;
-        if(n==1) return 1;
-        int ans=0;
-        while(n>0){
-            bin.push_back(n%2);
-            n=n/2;
+        if(n==1)
+            return 1;
+        for(int i=0;i<n;i++){
+            if(pow(2,i)>n)
+                return (pow(2,i)-1);
         }
-        for(int i:bin)
-            ans=ans*2+1;
-
-        return ans;
+        return -1;
     }
 };
