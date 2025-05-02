@@ -60,4 +60,8 @@ For my DSA problem and solutions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sandeep-garai/DSA/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/sandeep-garai/DSA/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
