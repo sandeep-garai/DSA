@@ -41,6 +41,7 @@ For my DSA problem and solutions
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sandeep-garai/DSA/tree/master/0136-single-number) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/sandeep-garai/DSA/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -67,4 +68,5 @@ For my DSA problem and solutions
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sandeep-garai/DSA/tree/master/0009-palindrome-number) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/sandeep-garai/DSA/tree/master/3676-smallest-number-with-all-set-bits) |
 <!---LeetCode Topics End-->
