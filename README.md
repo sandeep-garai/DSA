@@ -24,6 +24,7 @@ For my DSA problem and solutions
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/sandeep-garai/DSA/tree/master/0278-first-bad-version) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/sandeep-garai/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Interactive
 |  |
 | ------- |
@@ -37,6 +38,7 @@ For my DSA problem and solutions
 | [0136-single-number](https://github.com/sandeep-garai/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/sandeep-garai/DSA/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/sandeep-garai/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/sandeep-garai/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -52,11 +54,13 @@ For my DSA problem and solutions
 | ------- |
 | [0011-container-with-most-water](https://github.com/sandeep-garai/DSA/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/sandeep-garai/DSA/tree/master/0075-sort-colors) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/sandeep-garai/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sandeep-garai/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/sandeep-garai/DSA/tree/master/0169-majority-element) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/sandeep-garai/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Divide and Conquer
 |  |
 | ------- |
