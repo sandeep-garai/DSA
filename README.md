@@ -38,6 +38,7 @@ For my DSA problem and solutions
 | [0136-single-number](https://github.com/sandeep-garai/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/sandeep-garai/DSA/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/sandeep-garai/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0682-baseball-game](https://github.com/sandeep-garai/DSA/tree/master/0682-baseball-game) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sandeep-garai/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Bit Manipulation
 |  |
@@ -74,4 +75,12 @@ For my DSA problem and solutions
 | ------- |
 | [0009-palindrome-number](https://github.com/sandeep-garai/DSA/tree/master/0009-palindrome-number) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/sandeep-garai/DSA/tree/master/3676-smallest-number-with-all-set-bits) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/sandeep-garai/DSA/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/sandeep-garai/DSA/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
