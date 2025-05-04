@@ -83,4 +83,8 @@ For my DSA problem and solutions
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/sandeep-garai/DSA/tree/master/0682-baseball-game) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/sandeep-garai/DSA/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
