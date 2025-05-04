@@ -87,4 +87,5 @@ For my DSA problem and solutions
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/sandeep-garai/DSA/tree/master/0176-second-highest-salary) |
+| [0177-nth-highest-salary](https://github.com/sandeep-garai/DSA/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
