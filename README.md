@@ -36,6 +36,7 @@ For my DSA problem and solutions
 | [0001-two-sum](https://github.com/sandeep-garai/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/sandeep-garai/DSA/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/sandeep-garai/DSA/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sandeep-garai/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/sandeep-garai/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/sandeep-garai/DSA/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/sandeep-garai/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -98,4 +99,8 @@ For my DSA problem and solutions
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/sandeep-garai/DSA/tree/master/0319-bulb-switcher) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sandeep-garai/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
