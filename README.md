@@ -9,6 +9,7 @@ For my DSA problem and solutions
 | [0014-longest-common-prefix](https://github.com/sandeep-garai/DSA/tree/master/0014-longest-common-prefix) |
 | [0409-longest-palindrome](https://github.com/sandeep-garai/DSA/tree/master/0409-longest-palindrome) |
 | [0434-number-of-segments-in-a-string](https://github.com/sandeep-garai/DSA/tree/master/0434-number-of-segments-in-a-string) |
+| [1666-make-the-string-great](https://github.com/sandeep-garai/DSA/tree/master/1666-make-the-string-great) |
 ## Hash Table
 |  |
 | ------- |
@@ -82,6 +83,7 @@ For my DSA problem and solutions
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/sandeep-garai/DSA/tree/master/0682-baseball-game) |
+| [1666-make-the-string-great](https://github.com/sandeep-garai/DSA/tree/master/1666-make-the-string-great) |
 ## Simulation
 |  |
 | ------- |
