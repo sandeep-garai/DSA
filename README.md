@@ -75,6 +75,7 @@ For my DSA problem and solutions
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sandeep-garai/DSA/tree/master/0009-palindrome-number) |
+| [0319-bulb-switcher](https://github.com/sandeep-garai/DSA/tree/master/0319-bulb-switcher) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/sandeep-garai/DSA/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Stack
 |  |
@@ -93,4 +94,8 @@ For my DSA problem and solutions
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sandeep-garai/DSA/tree/master/0014-longest-common-prefix) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/sandeep-garai/DSA/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
