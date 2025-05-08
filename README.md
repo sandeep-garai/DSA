@@ -10,6 +10,7 @@ For my DSA problem and solutions
 | [0409-longest-palindrome](https://github.com/sandeep-garai/DSA/tree/master/0409-longest-palindrome) |
 | [0434-number-of-segments-in-a-string](https://github.com/sandeep-garai/DSA/tree/master/0434-number-of-segments-in-a-string) |
 | [1666-make-the-string-great](https://github.com/sandeep-garai/DSA/tree/master/1666-make-the-string-great) |
+| [3447-clear-digits](https://github.com/sandeep-garai/DSA/tree/master/3447-clear-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,10 +87,12 @@ For my DSA problem and solutions
 | [0682-baseball-game](https://github.com/sandeep-garai/DSA/tree/master/0682-baseball-game) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sandeep-garai/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1666-make-the-string-great](https://github.com/sandeep-garai/DSA/tree/master/1666-make-the-string-great) |
+| [3447-clear-digits](https://github.com/sandeep-garai/DSA/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/sandeep-garai/DSA/tree/master/0682-baseball-game) |
+| [3447-clear-digits](https://github.com/sandeep-garai/DSA/tree/master/3447-clear-digits) |
 ## Database
 |  |
 | ------- |
