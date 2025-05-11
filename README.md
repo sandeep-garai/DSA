@@ -11,6 +11,7 @@ For my DSA problem and solutions
 | [0434-number-of-segments-in-a-string](https://github.com/sandeep-garai/DSA/tree/master/0434-number-of-segments-in-a-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/sandeep-garai/DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1666-make-the-string-great](https://github.com/sandeep-garai/DSA/tree/master/1666-make-the-string-great) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sandeep-garai/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [3447-clear-digits](https://github.com/sandeep-garai/DSA/tree/master/3447-clear-digits) |
 ## Hash Table
 |  |
@@ -90,6 +91,7 @@ For my DSA problem and solutions
 | [0682-baseball-game](https://github.com/sandeep-garai/DSA/tree/master/0682-baseball-game) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sandeep-garai/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1666-make-the-string-great](https://github.com/sandeep-garai/DSA/tree/master/1666-make-the-string-great) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sandeep-garai/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sandeep-garai/DSA/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [3447-clear-digits](https://github.com/sandeep-garai/DSA/tree/master/3447-clear-digits) |
 ## Simulation
