@@ -9,6 +9,7 @@ For my DSA problem and solutions
 | [0014-longest-common-prefix](https://github.com/sandeep-garai/DSA/tree/master/0014-longest-common-prefix) |
 | [0409-longest-palindrome](https://github.com/sandeep-garai/DSA/tree/master/0409-longest-palindrome) |
 | [0434-number-of-segments-in-a-string](https://github.com/sandeep-garai/DSA/tree/master/0434-number-of-segments-in-a-string) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/sandeep-garai/DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1666-make-the-string-great](https://github.com/sandeep-garai/DSA/tree/master/1666-make-the-string-great) |
 | [3447-clear-digits](https://github.com/sandeep-garai/DSA/tree/master/3447-clear-digits) |
 ## Hash Table
@@ -56,6 +57,7 @@ For my DSA problem and solutions
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/sandeep-garai/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/sandeep-garai/DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Two Pointers
 |  |
 | ------- |
