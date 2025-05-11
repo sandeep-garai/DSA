@@ -47,6 +47,7 @@ For my DSA problem and solutions
 | [0682-baseball-game](https://github.com/sandeep-garai/DSA/tree/master/0682-baseball-game) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sandeep-garai/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sandeep-garai/DSA/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2195-time-needed-to-buy-tickets](https://github.com/sandeep-garai/DSA/tree/master/2195-time-needed-to-buy-tickets) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sandeep-garai/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Bit Manipulation
 |  |
@@ -99,6 +100,7 @@ For my DSA problem and solutions
 | ------- |
 | [0682-baseball-game](https://github.com/sandeep-garai/DSA/tree/master/0682-baseball-game) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sandeep-garai/DSA/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2195-time-needed-to-buy-tickets](https://github.com/sandeep-garai/DSA/tree/master/2195-time-needed-to-buy-tickets) |
 | [3447-clear-digits](https://github.com/sandeep-garai/DSA/tree/master/3447-clear-digits) |
 ## Database
 |  |
@@ -125,4 +127,5 @@ For my DSA problem and solutions
 |  |
 | ------- |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sandeep-garai/DSA/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2195-time-needed-to-buy-tickets](https://github.com/sandeep-garai/DSA/tree/master/2195-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
