@@ -1,16 +1,22 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-        int k=0;
-        string ans;
-        for(char c: s){
-            if(std::isalnum(c))
-                ans.push_back(tolower(c));
+        int start=0,end=s.length()-1;
+        while(start < end){
+            if(!isalnum(s[start])){
+                start++;
+                continue;
+            }
+            if(!isalnum(s[end])){
+                end--;
+                continue;
+            }
+            if(tolower(s[start])!=tolower(s[end])) return false;
+            else{
+                start++;
+                end--;
+            }
         }
-        string rev=ans;
-        std::reverse(rev.begin(),rev.end());
-        if(ans==rev)
-            return true;
-        return false;
+        return true;
     }
 };
