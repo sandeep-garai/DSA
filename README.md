@@ -7,6 +7,7 @@ For my DSA problem and solutions
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sandeep-garai/DSA/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/sandeep-garai/DSA/tree/master/0125-valid-palindrome) |
 | [0409-longest-palindrome](https://github.com/sandeep-garai/DSA/tree/master/0409-longest-palindrome) |
 | [0434-number-of-segments-in-a-string](https://github.com/sandeep-garai/DSA/tree/master/0434-number-of-segments-in-a-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/sandeep-garai/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -66,6 +67,7 @@ For my DSA problem and solutions
 | ------- |
 | [0011-container-with-most-water](https://github.com/sandeep-garai/DSA/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/sandeep-garai/DSA/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/sandeep-garai/DSA/tree/master/0125-valid-palindrome) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sandeep-garai/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Sorting
 |  |
