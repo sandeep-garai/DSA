@@ -142,4 +142,12 @@ For my DSA problem and solutions
 | ------- |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sandeep-garai/DSA/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/sandeep-garai/DSA/tree/master/2195-time-needed-to-buy-tickets) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/sandeep-garai/DSA/tree/master/0203-remove-linked-list-elements) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/sandeep-garai/DSA/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
