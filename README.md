@@ -20,6 +20,7 @@ For my DSA problem and solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sandeep-garai/DSA/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/sandeep-garai/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/sandeep-garai/DSA/tree/master/0169-majority-element) |
 | [0409-longest-palindrome](https://github.com/sandeep-garai/DSA/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/sandeep-garai/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -46,6 +47,7 @@ For my DSA problem and solutions
 | [0075-sort-colors](https://github.com/sandeep-garai/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sandeep-garai/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sandeep-garai/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/sandeep-garai/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/sandeep-garai/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/sandeep-garai/DSA/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/sandeep-garai/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -151,4 +153,8 @@ For my DSA problem and solutions
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/sandeep-garai/DSA/tree/master/0203-remove-linked-list-elements) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sandeep-garai/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
