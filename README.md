@@ -29,6 +29,7 @@ For my DSA problem and solutions
 | ------- |
 | [0011-container-with-most-water](https://github.com/sandeep-garai/DSA/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/sandeep-garai/DSA/tree/master/0409-longest-palindrome) |
+| [0605-can-place-flowers](https://github.com/sandeep-garai/DSA/tree/master/0605-can-place-flowers) |
 ## Binary Search
 |  |
 | ------- |
@@ -52,6 +53,7 @@ For my DSA problem and solutions
 | [0169-majority-element](https://github.com/sandeep-garai/DSA/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/sandeep-garai/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/sandeep-garai/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/sandeep-garai/DSA/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sandeep-garai/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/sandeep-garai/DSA/tree/master/0682-baseball-game) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sandeep-garai/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
