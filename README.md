@@ -34,6 +34,7 @@ For my DSA problem and solutions
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/sandeep-garai/DSA/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/sandeep-garai/DSA/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/sandeep-garai/DSA/tree/master/0287-find-the-duplicate-number) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sandeep-garai/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -103,6 +104,7 @@ For my DSA problem and solutions
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sandeep-garai/DSA/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/sandeep-garai/DSA/tree/master/0069-sqrtx) |
 | [0319-bulb-switcher](https://github.com/sandeep-garai/DSA/tree/master/0319-bulb-switcher) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sandeep-garai/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/sandeep-garai/DSA/tree/master/3676-smallest-number-with-all-set-bits) |
