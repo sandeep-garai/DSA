@@ -68,6 +68,7 @@ For my DSA problem and solutions
 | [0136-single-number](https://github.com/sandeep-garai/DSA/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/sandeep-garai/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/sandeep-garai/DSA/tree/master/0476-number-complement) |
+| [1054-complement-of-base-10-integer](https://github.com/sandeep-garai/DSA/tree/master/1054-complement-of-base-10-integer) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/sandeep-garai/DSA/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Prefix Sum
 |  |
