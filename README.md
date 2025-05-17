@@ -104,6 +104,7 @@ For my DSA problem and solutions
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sandeep-garai/DSA/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/sandeep-garai/DSA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/sandeep-garai/DSA/tree/master/0069-sqrtx) |
 | [0319-bulb-switcher](https://github.com/sandeep-garai/DSA/tree/master/0319-bulb-switcher) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sandeep-garai/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -158,6 +159,7 @@ For my DSA problem and solutions
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/sandeep-garai/DSA/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/sandeep-garai/DSA/tree/master/0203-remove-linked-list-elements) |
 ## Union Find
 |  |
