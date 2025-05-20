@@ -62,6 +62,7 @@ For my DSA problem and solutions
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sandeep-garai/DSA/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/sandeep-garai/DSA/tree/master/2195-time-needed-to-buy-tickets) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sandeep-garai/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/sandeep-garai/DSA/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -93,6 +94,7 @@ For my DSA problem and solutions
 | [0169-majority-element](https://github.com/sandeep-garai/DSA/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sandeep-garai/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sandeep-garai/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/sandeep-garai/DSA/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -126,6 +128,7 @@ For my DSA problem and solutions
 | [0682-baseball-game](https://github.com/sandeep-garai/DSA/tree/master/0682-baseball-game) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sandeep-garai/DSA/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/sandeep-garai/DSA/tree/master/2195-time-needed-to-buy-tickets) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/sandeep-garai/DSA/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3447-clear-digits](https://github.com/sandeep-garai/DSA/tree/master/3447-clear-digits) |
 ## Database
 |  |
@@ -166,4 +169,12 @@ For my DSA problem and solutions
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sandeep-garai/DSA/tree/master/0128-longest-consecutive-sequence) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2585-delete-greatest-value-in-each-row](https://github.com/sandeep-garai/DSA/tree/master/2585-delete-greatest-value-in-each-row) |
+## Matrix
+|  |
+| ------- |
+| [2585-delete-greatest-value-in-each-row](https://github.com/sandeep-garai/DSA/tree/master/2585-delete-greatest-value-in-each-row) |
 <!---LeetCode Topics End-->
