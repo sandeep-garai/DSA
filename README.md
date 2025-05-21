@@ -71,6 +71,7 @@ For my DSA problem and solutions
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sandeep-garai/DSA/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/sandeep-garai/DSA/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/sandeep-garai/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/sandeep-garai/DSA/tree/master/0476-number-complement) |
 | [1054-complement-of-base-10-integer](https://github.com/sandeep-garai/DSA/tree/master/1054-complement-of-base-10-integer) |
@@ -115,6 +116,7 @@ For my DSA problem and solutions
 | [0009-palindrome-number](https://github.com/sandeep-garai/DSA/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/sandeep-garai/DSA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/sandeep-garai/DSA/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/sandeep-garai/DSA/tree/master/0231-power-of-two) |
 | [0319-bulb-switcher](https://github.com/sandeep-garai/DSA/tree/master/0319-bulb-switcher) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sandeep-garai/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/sandeep-garai/DSA/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -172,6 +174,7 @@ For my DSA problem and solutions
 | ------- |
 | [0050-powx-n](https://github.com/sandeep-garai/DSA/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/sandeep-garai/DSA/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/sandeep-garai/DSA/tree/master/0231-power-of-two) |
 ## Union Find
 |  |
 | ------- |
