@@ -17,6 +17,7 @@ For my DSA problem and solutions
 | [1666-make-the-string-great](https://github.com/sandeep-garai/DSA/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sandeep-garai/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/sandeep-garai/DSA/tree/master/1894-merge-strings-alternately) |
+| [3019-furthest-point-from-origin](https://github.com/sandeep-garai/DSA/tree/master/3019-furthest-point-from-origin) |
 | [3447-clear-digits](https://github.com/sandeep-garai/DSA/tree/master/3447-clear-digits) |
 ## Hash Table
 |  |
@@ -106,6 +107,7 @@ For my DSA problem and solutions
 | ------- |
 | [0169-majority-element](https://github.com/sandeep-garai/DSA/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/sandeep-garai/DSA/tree/master/0383-ransom-note) |
+| [3019-furthest-point-from-origin](https://github.com/sandeep-garai/DSA/tree/master/3019-furthest-point-from-origin) |
 ## Math
 |  |
 | ------- |
