@@ -9,6 +9,7 @@ For my DSA problem and solutions
 | [0014-longest-common-prefix](https://github.com/sandeep-garai/DSA/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/sandeep-garai/DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/sandeep-garai/DSA/tree/master/0125-valid-palindrome) |
+| [0383-ransom-note](https://github.com/sandeep-garai/DSA/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/sandeep-garai/DSA/tree/master/0409-longest-palindrome) |
 | [0434-number-of-segments-in-a-string](https://github.com/sandeep-garai/DSA/tree/master/0434-number-of-segments-in-a-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/sandeep-garai/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -23,6 +24,7 @@ For my DSA problem and solutions
 | [0001-two-sum](https://github.com/sandeep-garai/DSA/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/sandeep-garai/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/sandeep-garai/DSA/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/sandeep-garai/DSA/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/sandeep-garai/DSA/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/sandeep-garai/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Greedy
@@ -103,6 +105,7 @@ For my DSA problem and solutions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sandeep-garai/DSA/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/sandeep-garai/DSA/tree/master/0383-ransom-note) |
 ## Math
 |  |
 | ------- |
