@@ -12,6 +12,7 @@ For my DSA problem and solutions
 | [0383-ransom-note](https://github.com/sandeep-garai/DSA/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/sandeep-garai/DSA/tree/master/0409-longest-palindrome) |
 | [0434-number-of-segments-in-a-string](https://github.com/sandeep-garai/DSA/tree/master/0434-number-of-segments-in-a-string) |
+| [0657-robot-return-to-origin](https://github.com/sandeep-garai/DSA/tree/master/0657-robot-return-to-origin) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/sandeep-garai/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/sandeep-garai/DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1666-make-the-string-great](https://github.com/sandeep-garai/DSA/tree/master/1666-make-the-string-great) |
@@ -130,6 +131,7 @@ For my DSA problem and solutions
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/sandeep-garai/DSA/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/sandeep-garai/DSA/tree/master/0682-baseball-game) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sandeep-garai/DSA/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/sandeep-garai/DSA/tree/master/2195-time-needed-to-buy-tickets) |
