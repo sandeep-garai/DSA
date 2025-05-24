@@ -22,6 +22,7 @@ For my DSA problem and solutions
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sandeep-garai/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/sandeep-garai/DSA/tree/master/1894-merge-strings-alternately) |
 | [3019-furthest-point-from-origin](https://github.com/sandeep-garai/DSA/tree/master/3019-furthest-point-from-origin) |
+| [3194-find-words-containing-character](https://github.com/sandeep-garai/DSA/tree/master/3194-find-words-containing-character) |
 | [3447-clear-digits](https://github.com/sandeep-garai/DSA/tree/master/3447-clear-digits) |
 ## Hash Table
 |  |
@@ -71,6 +72,7 @@ For my DSA problem and solutions
 | [2195-time-needed-to-buy-tickets](https://github.com/sandeep-garai/DSA/tree/master/2195-time-needed-to-buy-tickets) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sandeep-garai/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/sandeep-garai/DSA/tree/master/2585-delete-greatest-value-in-each-row) |
+| [3194-find-words-containing-character](https://github.com/sandeep-garai/DSA/tree/master/3194-find-words-containing-character) |
 ## Bit Manipulation
 |  |
 | ------- |
