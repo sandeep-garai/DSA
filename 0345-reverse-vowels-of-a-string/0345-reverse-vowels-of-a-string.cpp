@@ -1,19 +1,21 @@
 class Solution {
 public:
     string reverseVowels(string s) {
-        for(int i=0, j=size(s)-1;i<=j;){
-            char ch = tolower(s[i]);
-            char ch2 = tolower(s[j]);
-            if(!((ch=='a')||(ch=='e')||(ch=='i')||(ch=='o')||(ch=='u')))
-                ++i;
-            if(!((ch2=='a')||(ch2=='e')||(ch2=='i')||(ch2=='o')||(ch2=='u')))
-                --j;
-            else if(((ch=='a')||(ch=='e')||(ch=='i')||(ch=='o')||(ch=='u')) && ((ch2=='a')||(ch2=='e')||(ch2=='i')||(ch2=='o')||(ch2=='u'))){
-                swap(s[i],s[j]);
-                ++i;
-                --j;
-            }  
+        string word = s;
+        string vowel = "aeiouAEIOU";
+        int start = 0;
+        int end = size(s)-1;
+        while(start < end){
+            while(start < end && vowel.find(word[start])==string::npos){
+                start++;
+            }
+            while(start < end && vowel.find(word[end])==string::npos){
+                end--;
+            }
+            swap(word[start],word[end]);
+            start++;
+            end--;
         }
-        return s;
+        return word;
     }
 };
