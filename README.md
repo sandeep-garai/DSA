@@ -67,6 +67,7 @@ For my DSA problem and solutions
 | [0628-maximum-product-of-three-numbers](https://github.com/sandeep-garai/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/sandeep-garai/DSA/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/sandeep-garai/DSA/tree/master/0724-find-pivot-index) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/sandeep-garai/DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sandeep-garai/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sandeep-garai/DSA/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/sandeep-garai/DSA/tree/master/2195-time-needed-to-buy-tickets) |
