@@ -38,6 +38,7 @@ For my DSA problem and solutions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sandeep-garai/DSA/tree/master/0011-container-with-most-water) |
+| [0334-increasing-triplet-subsequence](https://github.com/sandeep-garai/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0409-longest-palindrome](https://github.com/sandeep-garai/DSA/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/sandeep-garai/DSA/tree/master/0605-can-place-flowers) |
 ## Binary Search
@@ -63,6 +64,7 @@ For my DSA problem and solutions
 | [0136-single-number](https://github.com/sandeep-garai/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/sandeep-garai/DSA/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/sandeep-garai/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0334-increasing-triplet-subsequence](https://github.com/sandeep-garai/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0560-subarray-sum-equals-k](https://github.com/sandeep-garai/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/sandeep-garai/DSA/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sandeep-garai/DSA/tree/master/0628-maximum-product-of-three-numbers) |
