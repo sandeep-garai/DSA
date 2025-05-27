@@ -1,17 +1,16 @@
 class Solution {
 public:
     double findMaxAverage(vector<int>& nums, int k) {
-        double maxavg=INT_MIN;
-        int maxm = 0;
-        for(int i=0;i<size(nums);i++){
-            maxm += nums[i];
-            if(i>=k-1){
-                double avg = maxm / (double)k;
-                maxavg = max(maxavg,avg);
-                cout<<maxm<<" "<<endl;
-                maxm -= nums[i-k+1];
-            }
+        double maxm =0.0;
+        double sm=0.0;
+        for(int i=0;i<k;i++){
+            maxm+=nums[i];
         }
-        return maxavg;
+        sm=maxm;
+        for(int i=k ;i<size(nums);i++){
+            sm=sm+nums[i]-nums[i-k];
+            maxm=max(maxm,sm);
+        }
+        return maxm/(double)k;
     }
 };
