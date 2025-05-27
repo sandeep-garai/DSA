@@ -1,19 +1,12 @@
 class Solution {
 public:
-    bool isVowel(char c){
-        c = tolower(c);
-        return c=='a'||c=='i'||c=='o'||c=='e'||c=='u';
-    }
     int maxVowels(string s, int k) {
-        int maxm =0,cnt=0;
-        for(int i=0;i<k;i++){
-            if(isVowel(s[i]))   cnt++;
-        }
-        maxm = cnt;
-        for(int i=k;i<=s.length();i++){
-            if(isVowel(s[i])) cnt++;
-            if(isVowel(s[i-k])) cnt--;
-            maxm = max (cnt, maxm);
+        int cnt = 0, maxm = 0;
+        string vowels = "aeiou";
+        for (int i = 0; i < s.size(); i++) {
+            if (i >= k && vowels.find(tolower(s[i-k])) != string::npos) cnt--;
+            if (vowels.find(tolower(s[i])) != string::npos) cnt++;
+            if (i >= k-1) maxm = max(maxm, cnt);
         }
         return maxm;
     }
