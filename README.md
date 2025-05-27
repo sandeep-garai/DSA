@@ -69,6 +69,7 @@ For my DSA problem and solutions
 | [0560-subarray-sum-equals-k](https://github.com/sandeep-garai/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/sandeep-garai/DSA/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sandeep-garai/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/sandeep-garai/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/sandeep-garai/DSA/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/sandeep-garai/DSA/tree/master/0724-find-pivot-index) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/sandeep-garai/DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -206,4 +207,8 @@ For my DSA problem and solutions
 |  |
 | ------- |
 | [2585-delete-greatest-value-in-each-row](https://github.com/sandeep-garai/DSA/tree/master/2585-delete-greatest-value-in-each-row) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/sandeep-garai/DSA/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
