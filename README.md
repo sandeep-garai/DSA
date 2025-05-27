@@ -20,6 +20,7 @@ For my DSA problem and solutions
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/sandeep-garai/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sandeep-garai/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/sandeep-garai/DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sandeep-garai/DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1666-make-the-string-great](https://github.com/sandeep-garai/DSA/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sandeep-garai/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/sandeep-garai/DSA/tree/master/1894-merge-strings-alternately) |
@@ -211,4 +212,5 @@ For my DSA problem and solutions
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/sandeep-garai/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sandeep-garai/DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
