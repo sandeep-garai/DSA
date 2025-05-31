@@ -36,6 +36,7 @@ For my DSA problem and solutions
 | [0383-ransom-note](https://github.com/sandeep-garai/DSA/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/sandeep-garai/DSA/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/sandeep-garai/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/sandeep-garai/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Greedy
 |  |
 | ------- |
@@ -49,6 +50,7 @@ For my DSA problem and solutions
 | [0069-sqrtx](https://github.com/sandeep-garai/DSA/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/sandeep-garai/DSA/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/sandeep-garai/DSA/tree/master/0287-find-the-duplicate-number) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/sandeep-garai/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sandeep-garai/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Interactive
 |  |
@@ -73,6 +75,7 @@ For my DSA problem and solutions
 | [0643-maximum-average-subarray-i](https://github.com/sandeep-garai/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/sandeep-garai/DSA/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/sandeep-garai/DSA/tree/master/0724-find-pivot-index) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/sandeep-garai/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/sandeep-garai/DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sandeep-garai/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1791-richest-customer-wealth](https://github.com/sandeep-garai/DSA/tree/master/1791-richest-customer-wealth) |
@@ -108,6 +111,7 @@ For my DSA problem and solutions
 | [0345-reverse-vowels-of-a-string](https://github.com/sandeep-garai/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/sandeep-garai/DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/sandeep-garai/DSA/tree/master/0443-string-compression) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/sandeep-garai/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1894-merge-strings-alternately](https://github.com/sandeep-garai/DSA/tree/master/1894-merge-strings-alternately) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sandeep-garai/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Sorting
@@ -117,6 +121,7 @@ For my DSA problem and solutions
 | [0088-merge-sorted-array](https://github.com/sandeep-garai/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sandeep-garai/DSA/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sandeep-garai/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/sandeep-garai/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sandeep-garai/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/sandeep-garai/DSA/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Divide and Conquer
