@@ -91,6 +91,7 @@ For my DSA problem and solutions
 | [0191-number-of-1-bits](https://github.com/sandeep-garai/DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/sandeep-garai/DSA/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/sandeep-garai/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/sandeep-garai/DSA/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/sandeep-garai/DSA/tree/master/0476-number-complement) |
 | [1054-complement-of-base-10-integer](https://github.com/sandeep-garai/DSA/tree/master/1054-complement-of-base-10-integer) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/sandeep-garai/DSA/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -186,6 +187,7 @@ For my DSA problem and solutions
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sandeep-garai/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/sandeep-garai/DSA/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/sandeep-garai/DSA/tree/master/0392-is-subsequence) |
 ## Monotonic Stack
 |  |
