@@ -202,6 +202,7 @@ For my DSA problem and solutions
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sandeep-garai/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/sandeep-garai/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/sandeep-garai/DSA/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
 |  |
