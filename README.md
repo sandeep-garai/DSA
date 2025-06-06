@@ -154,6 +154,7 @@ For my DSA problem and solutions
 | [0319-bulb-switcher](https://github.com/sandeep-garai/DSA/tree/master/0319-bulb-switcher) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sandeep-garai/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sandeep-garai/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sandeep-garai/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/sandeep-garai/DSA/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/sandeep-garai/DSA/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Stack
@@ -216,6 +217,7 @@ For my DSA problem and solutions
 | [0206-reverse-linked-list](https://github.com/sandeep-garai/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sandeep-garai/DSA/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/sandeep-garai/DSA/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sandeep-garai/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
