@@ -152,6 +152,7 @@ For my DSA problem and solutions
 | [0009-palindrome-number](https://github.com/sandeep-garai/DSA/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/sandeep-garai/DSA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/sandeep-garai/DSA/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/sandeep-garai/DSA/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/sandeep-garai/DSA/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/sandeep-garai/DSA/tree/master/0263-ugly-number) |
 | [0319-bulb-switcher](https://github.com/sandeep-garai/DSA/tree/master/0319-bulb-switcher) |
@@ -197,6 +198,7 @@ For my DSA problem and solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sandeep-garai/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sandeep-garai/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/sandeep-garai/DSA/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/sandeep-garai/DSA/tree/master/0392-is-subsequence) |
@@ -249,4 +251,8 @@ For my DSA problem and solutions
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/sandeep-garai/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sandeep-garai/DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sandeep-garai/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
