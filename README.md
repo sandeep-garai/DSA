@@ -38,6 +38,7 @@ For my DSA problem and solutions
 | [0383-ransom-note](https://github.com/sandeep-garai/DSA/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/sandeep-garai/DSA/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/sandeep-garai/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/sandeep-garai/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sandeep-garai/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Greedy
 |  |
@@ -74,6 +75,7 @@ For my DSA problem and solutions
 | [0287-find-the-duplicate-number](https://github.com/sandeep-garai/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/sandeep-garai/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0560-subarray-sum-equals-k](https://github.com/sandeep-garai/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/sandeep-garai/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/sandeep-garai/DSA/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sandeep-garai/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/sandeep-garai/DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -131,6 +133,7 @@ For my DSA problem and solutions
 | [0075-sort-colors](https://github.com/sandeep-garai/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sandeep-garai/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sandeep-garai/DSA/tree/master/0169-majority-element) |
+| [0594-longest-harmonious-subsequence](https://github.com/sandeep-garai/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sandeep-garai/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sandeep-garai/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sandeep-garai/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -145,6 +148,7 @@ For my DSA problem and solutions
 | ------- |
 | [0169-majority-element](https://github.com/sandeep-garai/DSA/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/sandeep-garai/DSA/tree/master/0383-ransom-note) |
+| [0594-longest-harmonious-subsequence](https://github.com/sandeep-garai/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [3019-furthest-point-from-origin](https://github.com/sandeep-garai/DSA/tree/master/3019-furthest-point-from-origin) |
 ## Math
 |  |
@@ -249,6 +253,7 @@ For my DSA problem and solutions
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/sandeep-garai/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/sandeep-garai/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sandeep-garai/DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Memoization
