@@ -90,6 +90,7 @@ For my DSA problem and solutions
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sandeep-garai/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/sandeep-garai/DSA/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3194-find-words-containing-character](https://github.com/sandeep-garai/DSA/tree/master/3194-find-words-containing-character) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/sandeep-garai/DSA/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Bit Manipulation
 |  |
 | ------- |
