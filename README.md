@@ -54,12 +54,14 @@ For my DSA problem and solutions
 | [0069-sqrtx](https://github.com/sandeep-garai/DSA/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/sandeep-garai/DSA/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/sandeep-garai/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/sandeep-garai/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sandeep-garai/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sandeep-garai/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Interactive
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/sandeep-garai/DSA/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/sandeep-garai/DSA/tree/master/0374-guess-number-higher-or-lower) |
 ## Array
 |  |
 | ------- |
