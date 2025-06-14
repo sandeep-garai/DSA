@@ -10,6 +10,7 @@ For my DSA problem and solutions
 | [0058-length-of-last-word](https://github.com/sandeep-garai/DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/sandeep-garai/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sandeep-garai/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/sandeep-garai/DSA/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sandeep-garai/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/sandeep-garai/DSA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/sandeep-garai/DSA/tree/master/0392-is-subsequence) |
@@ -35,6 +36,7 @@ For my DSA problem and solutions
 | [0141-linked-list-cycle](https://github.com/sandeep-garai/DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sandeep-garai/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/sandeep-garai/DSA/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/sandeep-garai/DSA/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/sandeep-garai/DSA/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/sandeep-garai/DSA/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/sandeep-garai/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -136,6 +138,7 @@ For my DSA problem and solutions
 | [0075-sort-colors](https://github.com/sandeep-garai/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sandeep-garai/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sandeep-garai/DSA/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/sandeep-garai/DSA/tree/master/0242-valid-anagram) |
 | [0594-longest-harmonious-subsequence](https://github.com/sandeep-garai/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sandeep-garai/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sandeep-garai/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
