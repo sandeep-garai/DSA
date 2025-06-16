@@ -17,6 +17,7 @@ For my DSA problem and solutions
 | [0409-longest-palindrome](https://github.com/sandeep-garai/DSA/tree/master/0409-longest-palindrome) |
 | [0434-number-of-segments-in-a-string](https://github.com/sandeep-garai/DSA/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/sandeep-garai/DSA/tree/master/0443-string-compression) |
+| [0459-repeated-substring-pattern](https://github.com/sandeep-garai/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0657-robot-return-to-origin](https://github.com/sandeep-garai/DSA/tree/master/0657-robot-return-to-origin) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/sandeep-garai/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sandeep-garai/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -266,4 +267,8 @@ For my DSA problem and solutions
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sandeep-garai/DSA/tree/master/0070-climbing-stairs) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/sandeep-garai/DSA/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
