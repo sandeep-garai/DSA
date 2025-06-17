@@ -15,9 +15,6 @@ public:
     }
     vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
         sort(candidates.begin(),candidates.end());
-        for(auto it:candidates){
-            cout<<it<<" ";
-        }
         vector<int>seq;
         vector<vector<int>> ans;
         findCombination(0, target, candidates, seq, ans);
