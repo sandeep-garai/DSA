@@ -72,6 +72,7 @@ For my DSA problem and solutions
 | [0011-container-with-most-water](https://github.com/sandeep-garai/DSA/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/sandeep-garai/DSA/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/sandeep-garai/DSA/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/sandeep-garai/DSA/tree/master/0040-combination-sum-ii) |
 | [0075-sort-colors](https://github.com/sandeep-garai/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sandeep-garai/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sandeep-garai/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -276,4 +277,5 @@ For my DSA problem and solutions
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/sandeep-garai/DSA/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/sandeep-garai/DSA/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
