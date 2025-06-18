@@ -74,6 +74,7 @@ For my DSA problem and solutions
 | [0039-combination-sum](https://github.com/sandeep-garai/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sandeep-garai/DSA/tree/master/0040-combination-sum-ii) |
 | [0075-sort-colors](https://github.com/sandeep-garai/DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/sandeep-garai/DSA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/sandeep-garai/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sandeep-garai/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/sandeep-garai/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -101,6 +102,7 @@ For my DSA problem and solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sandeep-garai/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/sandeep-garai/DSA/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/sandeep-garai/DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/sandeep-garai/DSA/tree/master/0231-power-of-two) |
@@ -278,4 +280,5 @@ For my DSA problem and solutions
 | ------- |
 | [0039-combination-sum](https://github.com/sandeep-garai/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sandeep-garai/DSA/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/sandeep-garai/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
