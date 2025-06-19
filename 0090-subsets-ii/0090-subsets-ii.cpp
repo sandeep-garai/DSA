@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void subset(int ind, vector<int>arr, vector<int>&seq, vector<vector<int>>&ans){
+    void subset(int ind, vector<int>&arr, vector<int>&seq, vector<vector<int>>&ans){
         ans.push_back(seq);
         for(int i=ind;i<arr.size();i++){
             if(i!=ind && arr[i]==arr[i-1])  continue;
