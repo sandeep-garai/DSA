@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void permutations(vector<int>&arr, vector<int>&seq, vector<vector<int>>&ans, vector<int>&freq){
+    void permutations(vector<int>&arr, vector<int>&seq, vector<vector<int>>&ans, vector<bool>&freq){
         if(seq.size()==arr.size()){
             ans.push_back(seq);
             return;
@@ -18,7 +18,7 @@ public:
     vector<vector<int>> permute(vector<int>& nums) {
         vector<vector<int>>ans;
         vector<int> seq;
-        vector<int> freq(nums.size());
+        vector<bool> freq(nums.size(),false);
         permutations(nums,seq,ans,freq);
         return ans;
     }
