@@ -8,10 +8,10 @@ public:
         for(int i=0;i<arr.size();i++){
             if(!freq[i]){
                 seq.push_back(arr[i]);
-                freq[i]=1;
+                freq[i]=true;
                 permutations(arr,seq,ans,freq);
                 seq.pop_back();
-                freq[i]=0;
+                freq[i]=false;
             }
         }
     }
