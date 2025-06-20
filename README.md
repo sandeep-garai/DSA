@@ -37,6 +37,7 @@ For my DSA problem and solutions
 | [0141-linked-list-cycle](https://github.com/sandeep-garai/DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sandeep-garai/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/sandeep-garai/DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/sandeep-garai/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sandeep-garai/DSA/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/sandeep-garai/DSA/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/sandeep-garai/DSA/tree/master/0409-longest-palindrome) |
@@ -83,6 +84,7 @@ For my DSA problem and solutions
 | [0128-longest-consecutive-sequence](https://github.com/sandeep-garai/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/sandeep-garai/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/sandeep-garai/DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/sandeep-garai/DSA/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/sandeep-garai/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/sandeep-garai/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0560-subarray-sum-equals-k](https://github.com/sandeep-garai/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -147,6 +149,7 @@ For my DSA problem and solutions
 | [0075-sort-colors](https://github.com/sandeep-garai/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sandeep-garai/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sandeep-garai/DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/sandeep-garai/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sandeep-garai/DSA/tree/master/0242-valid-anagram) |
 | [0594-longest-harmonious-subsequence](https://github.com/sandeep-garai/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sandeep-garai/DSA/tree/master/0628-maximum-product-of-three-numbers) |
