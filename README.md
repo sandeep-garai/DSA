@@ -62,6 +62,7 @@ For my DSA problem and solutions
 | [0278-first-bad-version](https://github.com/sandeep-garai/DSA/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/sandeep-garai/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/sandeep-garai/DSA/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/sandeep-garai/DSA/tree/master/0441-arranging-coins) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sandeep-garai/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sandeep-garai/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Interactive
@@ -186,6 +187,7 @@ For my DSA problem and solutions
 | [0231-power-of-two](https://github.com/sandeep-garai/DSA/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/sandeep-garai/DSA/tree/master/0263-ugly-number) |
 | [0319-bulb-switcher](https://github.com/sandeep-garai/DSA/tree/master/0319-bulb-switcher) |
+| [0441-arranging-coins](https://github.com/sandeep-garai/DSA/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sandeep-garai/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/sandeep-garai/DSA/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sandeep-garai/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
