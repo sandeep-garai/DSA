@@ -217,6 +217,7 @@ For my DSA problem and solutions
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/sandeep-garai/DSA/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/sandeep-garai/DSA/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/sandeep-garai/DSA/tree/master/0177-nth-highest-salary) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/sandeep-garai/DSA/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
