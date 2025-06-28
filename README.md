@@ -17,6 +17,7 @@ For my DSA problem and solutions
 | [0383-ransom-note](https://github.com/sandeep-garai/DSA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/sandeep-garai/DSA/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/sandeep-garai/DSA/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/sandeep-garai/DSA/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/sandeep-garai/DSA/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/sandeep-garai/DSA/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/sandeep-garai/DSA/tree/master/0459-repeated-substring-pattern) |
@@ -187,6 +188,7 @@ For my DSA problem and solutions
 | [0231-power-of-two](https://github.com/sandeep-garai/DSA/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/sandeep-garai/DSA/tree/master/0263-ugly-number) |
 | [0319-bulb-switcher](https://github.com/sandeep-garai/DSA/tree/master/0319-bulb-switcher) |
+| [0412-fizz-buzz](https://github.com/sandeep-garai/DSA/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/sandeep-garai/DSA/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sandeep-garai/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/sandeep-garai/DSA/tree/master/1013-fibonacci-number) |
@@ -208,6 +210,7 @@ For my DSA problem and solutions
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/sandeep-garai/DSA/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/sandeep-garai/DSA/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/sandeep-garai/DSA/tree/master/0682-baseball-game) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sandeep-garai/DSA/tree/master/1802-number-of-students-unable-to-eat-lunch) |
