@@ -2,7 +2,7 @@ class Solution {
 public:
     int maxFrequencyElements(vector<int>& nums) {
         int max=0,count=0;
-        map<int,int>mpp;
+        unordered_map<int,int>mpp;
         for(int num : nums){
             mpp[num]++;
         }
