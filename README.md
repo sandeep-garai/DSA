@@ -48,6 +48,7 @@ For my DSA problem and solutions
 | [0560-subarray-sum-equals-k](https://github.com/sandeep-garai/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/sandeep-garai/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sandeep-garai/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/sandeep-garai/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Greedy
 |  |
 | ------- |
@@ -110,6 +111,7 @@ For my DSA problem and solutions
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sandeep-garai/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/sandeep-garai/DSA/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3194-find-words-containing-character](https://github.com/sandeep-garai/DSA/tree/master/3194-find-words-containing-character) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/sandeep-garai/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/sandeep-garai/DSA/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Bit Manipulation
 |  |
@@ -178,6 +180,7 @@ For my DSA problem and solutions
 | [0383-ransom-note](https://github.com/sandeep-garai/DSA/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/sandeep-garai/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [3019-furthest-point-from-origin](https://github.com/sandeep-garai/DSA/tree/master/3019-furthest-point-from-origin) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/sandeep-garai/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Math
 |  |
 | ------- |
