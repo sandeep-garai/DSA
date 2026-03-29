@@ -29,6 +29,7 @@ For my DSA problem and solutions
 | [1666-make-the-string-great](https://github.com/sandeep-garai/DSA/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sandeep-garai/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/sandeep-garai/DSA/tree/master/1894-merge-strings-alternately) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/sandeep-garai/DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3019-furthest-point-from-origin](https://github.com/sandeep-garai/DSA/tree/master/3019-furthest-point-from-origin) |
 | [3194-find-words-containing-character](https://github.com/sandeep-garai/DSA/tree/master/3194-find-words-containing-character) |
 | [3447-clear-digits](https://github.com/sandeep-garai/DSA/tree/master/3447-clear-digits) |
