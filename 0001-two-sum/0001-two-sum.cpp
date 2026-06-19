@@ -1,15 +1,14 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        //the preSum method
-        unordered_map<int,int> preSum;
+        unordered_map<int,int> pair;
         for(int i=0;i<nums.size();i++){
-            int cmp=target-nums[i];
-            if(preSum.find(cmp)!=preSum.end()){
-                return {preSum[cmp],i};
+            int rem = target-nums[i];
+            if(pair.find(rem)!=pair.end() && pair[rem]!=i){
+                return {i,pair[rem]};
             }
-            preSum[nums[i]]=i;
+            pair[nums[i]]=i;
         }
-        return{};
+        return {};
     }
 };
